@@ -1,16 +1,22 @@
-### Hi there 👋
+# Rafael Tiburcio
 
-<!--
-**rafatiburciorst/rafatiburciorst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm Rafael, and this is my GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I'm a software developer with expertise in JavaScript, Python, and PHP.
+- 🌍 I'm passionate about creating web applications and solving complex problems.
+- 🎓 I'm constantly learning and improving my coding skills.
+
+
+## My Skills
+
+- JavaScript
+- Python
+- PHP
+- HTML
+- CSS
+
+## Contact Me
+
+- 📧 Email: rafael.tiburcio@live.com

@@ -4,7 +4,7 @@
 
 ## 🛠️ Tecnologias & Linguagens
 
-- **Linguagens:** Javascript, Typescript, PHP, Python, HTML, CSS, Go, Rust
+- **Linguagens/tecnologias:** Javascript, Typescript, PHP, Python, HTML, CSS, Go, Rust
 - **Banco de Dados:** MySQL, PostgreSQL
 - **Ferramentas:** Docker, Nginx, Git, Node.js
 - **Desenvolvimento Mobile:** React Native, Flutter, publicação de aplicativos

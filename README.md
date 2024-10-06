@@ -5,7 +5,7 @@
 ## 🛠️ Tecnologias & Linguagens
 
 - **Linguagens/tecnologias:** Javascript, Typescript, PHP, Python, HTML, CSS, Go, Rust
-- **Banco de Dados:** MySQL, PostgreSQL
+- **Banco de Dados:** MySQL, PostgreSQL, MongoDB, Redis
 - **Ferramentas:** Docker, Nginx, Git, Node.js
 - **Desenvolvimento Mobile:** React Native, Flutter, publicação de aplicativos
 - **Inteligência Artificial:** Criação de projetos com IA, como chatbots e RAG (Retrieval-Augmented Generation)
